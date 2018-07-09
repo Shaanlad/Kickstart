@@ -1,1 +1,4 @@
 Ethereum based Blockchain app
+
+Smart contract based Blockchain app similar to Kickstarter website used for raising funds against projects.
+Solves the problem of keeping a track of the money raised by Kickstarters along with the votes for the individual projects as a Go - No Go.
